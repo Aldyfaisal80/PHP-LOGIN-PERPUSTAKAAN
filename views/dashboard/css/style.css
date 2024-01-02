@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: red;
+}
+
+.box-formulir {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.box {
+  background-color: #ffff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 5px 0 25px;
+}
+.table-form {
+  width: 100%;
+}
+.table-form tr td:nth-child(1) {
+  width: 30%;
+}
+
+.input-control {
+  padding: 5px 10px;
+  font-size: 16px;
+  margin: 5px 0;
+}
+.btn-daftar {
+  padding: 10px 17px;
+  background-color: #4a99d7;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+}
+.btn-daftar:hover {
+  cursor: pointer;
+  background-color: #4881ae;
+}
+
+h2{
+  text-align: center;
+}

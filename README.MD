@@ -1,4 +1,3 @@
-# Project Name
 # PHP Login Perpustakaan
 
 This repository contains the code for a simple PHP-based login system for a library management system.

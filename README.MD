@@ -48,12 +48,3 @@ This repository contains the code for a simple PHP-based login system for a libr
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contributing
-
-Feel free to fork this project, submit issues, and send pull requests. Contributions are welcome!
-
-## Author
-
-Aldy Faisal - [Aldyfaisal80](https://github.com/Aldyfaisal80)
-
